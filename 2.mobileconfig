@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>EncryptionType</key>
+				<string>WPA</string>
+				<key>Password</key>
+				<string>oooopppp</string>
+				<key>PayloadDisplayName</key>
+				<string>Wi-Fi #1</string>
+				<key>PayloadIdentifier</key>
+				<string>PC-202012222306.eda1ffd5-4f1f-4680-b905-b2f4153e91e9</string>
+				<key>PayloadType</key>
+				<string>com.apple.wifi.managed</string>
+				<key>PayloadUUID</key>
+				<string>588eb5a3-1ac6-43dd-8596-f80319b32414</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ProxyServer</key>
+				<string>192.168.1.222</string>
+				<key>ProxyServerPort</key>
+				<integer>7890</integer>
+				<key>ProxyType</key>
+				<string>Manual</string>
+				<key>SSID_STR</key>
+				<string>Sinner内</string>
+			</dict>
+		</array>
+		<key>PayloadIdentifier</key>
+		<string>PC-202012222306.c7f475b9-1438-48fb-99f1-f364cc19d5c5</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>75c49e00-a25e-4c90-8da0-5313c0013483</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
